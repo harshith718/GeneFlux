@@ -1,0 +1,4237 @@
+{
+  "history": [
+    {
+      "generation": 0,
+      "avg_score": 0.4245341134751773,
+      "max_score": 0.8334782608695652,
+      "best_seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTACCTGACTATGCATGCGT",
+      "best_aa": "MAAAEMACCYLTMHA",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGATATGGCATGCTGCTAGCTGACTATGCATGCGT",
+          "type": "sub",
+          "pos": 14,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "AAGGCTGCTGCTGAAATGGCATGCTGCTAGCTGACTATGCATGCGT",
+          "type": "sub",
+          "pos": 1,
+          "base": "A"
+        },
+        {
+          "seq": "ACGGCTGCTGCTGAAATGGCATGCTGCTAGCTGACTATGCATGCGT",
+          "type": "sub",
+          "pos": 1,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGATTATGCATGCGT",
+          "type": "sub",
+          "pos": 34,
+          "base": "T"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 3,
+        "GCT": 3,
+        "GAA": 1,
+        "GCA": 1,
+        "TGC": 2,
+        "TAC": 1,
+        "CTG": 1,
+        "ACT": 1,
+        "CAT": 1,
+        "GCG": 1
+      }
+    },
+    {
+      "generation": 1,
+      "avg_score": 0.4345596875321205,
+      "max_score": 0.8449148936170213,
+      "best_seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTACCTGAACTATGCATGCGT",
+      "best_aa": "MAAAEMACCYLNYAC",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTACCTGAACTATGCATGCGT",
+          "type": "ins",
+          "pos": 34,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGATTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGACATGCTGCTAGCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGACTGCTGCTGAAATGGAATGCTGCTAGCTGACTATGCATGCGT",
+          "type": "sub",
+          "pos": 19,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCGATGCTGAAATGGCATGCTGCTAGCTGACTATGCATGCGT",
+          "type": "del",
+          "pos": 5,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAAATGGCATGCTGCTAGCTGACTATGCATGCGT",
+          "type": "sub",
+          "pos": 4,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGATATGGCATGCTGCTAGCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 3,
+        "GAA": 1,
+        "GCA": 2,
+        "TGC": 3,
+        "TAC": 1,
+        "CTG": 1,
+        "AAC": 1,
+        "TAT": 1
+      }
+    },
+    {
+      "generation": 2,
+      "avg_score": 0.5032314338575393,
+      "max_score": 0.852,
+      "best_seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+      "best_aa": "MAAAEIACCYLTMHA",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTACCTGAACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTACCTGACTATGCATCCGT",
+          "type": "sub",
+          "pos": 42,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTAGCTGATTATGCATCCGT",
+          "type": "sub",
+          "pos": 42,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCCGCTGAAATGACATGCTGCTAGCTGACTATGCATGCGT",
+          "type": "sub",
+          "pos": 8,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATCTTGCTAGCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATCGCATGCTGCTAGCTGAATATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATCGCATTCTGCTAGCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 3,
+        "GAA": 1,
+        "ATA": 1,
+        "GCA": 1,
+        "TGC": 2,
+        "TAC": 1,
+        "CTG": 1,
+        "ACT": 1,
+        "CAT": 1,
+        "GCG": 1
+      }
+    },
+    {
+      "generation": 3,
+      "avg_score": 0.6214202148216672,
+      "max_score": 0.852,
+      "best_seq": "ATGGCTTCTGCTGAAATGGCATGCTGCTACCTGACTATGCATGGGT",
+      "best_aa": "MASAEMACCYLTMHG",
+      "mutations_sample": [
+        {
+          "seq": "ATGGTTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "sub",
+          "pos": 4,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTTCTGCTGAAATGGCATGCTGCTACCTGACTATGCATGGGT",
+          "type": "sub",
+          "pos": 43,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAAAGGCATGCTGCTACCTGAACTATGCATGCGT",
+          "type": "sub",
+          "pos": 16,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTACCTGACTATGCATGCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTACCTGACTATGCATCCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATCCTGCTACCTGACTATGCATGCGT",
+          "type": "sub",
+          "pos": 22,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 3,
+        "GCT": 2,
+        "TCT": 1,
+        "GAA": 1,
+        "GCA": 1,
+        "TGC": 2,
+        "TAC": 1,
+        "CTG": 1,
+        "ACT": 1,
+        "CAT": 1,
+        "GGG": 1
+      }
+    },
+    {
+      "generation": 4,
+      "avg_score": 0.7872061157364579,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTTCTGCTGTAATGGCATGCTGCTACCTGACTATGCATGGGT",
+          "type": "sub",
+          "pos": 13,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGACTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "sub",
+          "pos": 3,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAAAGGCATGCTGCTACCTGAACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "ins",
+          "pos": 44,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATGCTGCTACCTGACTATGCATGCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGTTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATTCTGCTACCTGACTATGCATCCGT",
+          "type": "sub",
+          "pos": 22,
+          "base": "T"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 5,
+      "avg_score": 0.8227327854866893,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTTCTGCTGTAATGGCATGCTGCTACCTGACCTATGCATGGGT",
+          "type": "ins",
+          "pos": 34,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATTCTGCTACCTGACTATGCATCCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTTCTGCTGAAATGGCATGCTGCTACCTGCCTATGCATGTGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCGGCTACTGAAATGGCATCCTGCTACCTGACTATGCATGCGT",
+          "type": "sub",
+          "pos": 5,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGGATGCGT",
+          "type": "sub",
+          "pos": 39,
+          "base": "G"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 6,
+      "avg_score": 0.8184434916229829,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATCGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 18,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAACGGCATTCTGCTACCTGACTATGCATCCGT",
+          "type": "sub",
+          "pos": 16,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTTCTGCTGAAATGGCATGCTGCTACCTGCCTATGCATGTGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGACATAGCATGCTGCTACCTGACTATGGATGCGT",
+          "type": "sub",
+          "pos": 14,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTAGTGAAATGGCATGCTGCTACCTGACTATGCATGCAT",
+          "type": "sub",
+          "pos": 9,
+          "base": "A"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 7,
+      "avg_score": 0.8380617699660807,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATCGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTCTGCATCACGT",
+          "type": "sub",
+          "pos": 37,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTTCTGCTGAAATGGCATGCTGCTACCTGCCTATGCATGTGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATTCTGCTACCTGACTATGCATGCGT",
+          "type": "sub",
+          "pos": 22,
+          "base": "T"
+        },
+        {
+          "seq": "TTGACTGCTGCTGAAATGGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 8,
+      "avg_score": 0.8070346037619488,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ACGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 1,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATCGCATGCTGCTAGCTGATTATGCATGACGT",
+          "type": "sub",
+          "pos": 43,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTTCTGCTGAAATGGCATGCTGCTACCTGCCTATGCATGTGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGACTGCTGCTGAAATGGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGAATCCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 9,
+      "avg_score": 0.7888092260252852,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGGATCACGT",
+      "best_aa": "MAAAEDGMLLADYGSR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTGCTGATTATGCATCACGT",
+          "type": "del",
+          "pos": 29,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGGATCACGT",
+          "type": "sub",
+          "pos": 40,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCCGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "sub",
+          "pos": 8,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTTCTGCTGAAATGGCATGCTGCTACCTGCCTTATGCATGTGT",
+          "type": "ins",
+          "pos": 35,
+          "base": "T"
+        },
+        {
+          "seq": "TTGACTGCTGCTGAAATGGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGAATCCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGCATTCTGCTACCTGACTATAGCATCCGT",
+          "type": "ins",
+          "pos": 38,
+          "base": "A"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GGA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 10,
+      "avg_score": 0.814407405694316,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGGATCACGT",
+      "best_aa": "MAAAEDGMLLADYGSR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGGATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGACTGCTGCTGAAATGGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGAATCCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGGTGAAATGGCATGCTGCTACCTGACTATGCATGCT",
+          "type": "del",
+          "pos": 44,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCTT",
+          "type": "sub",
+          "pos": 44,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GGA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 11,
+      "avg_score": 0.8134815530887038,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGGATCACGT",
+      "best_aa": "MAAAEDGMLLADYGSR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGGATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGACTGCTGCTGAAATGGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATGGAATCCTGCTCCCTGACTATGCATGCGT",
+          "type": "sub",
+          "pos": 28,
+          "base": "C"
+        },
+        {
+          "seq": "ATGTCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "sub",
+          "pos": 3,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTCGTGAAATGGCATGCTGCTACCTGACTATGCATGCAT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGTCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "sub",
+          "pos": 3,
+          "base": "T"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GGA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 12,
+      "avg_score": 0.8312624226539213,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGGATCACGT",
+      "best_aa": "MAAAEDGMLLADYGSR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGGATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAACTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 30,
+          "base": "A"
+        },
+        {
+          "seq": "TTGACTGCTGCTGAAATGGCATGCTGCTCCTGACTATGCATGCGT",
+          "type": "del",
+          "pos": 28,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTCGTGAAATGGCATGCTGCTACCTGACTATGCATGCAT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCCTGCTGCTGAAATAGGCATGCTGCTACCTTACTATGCATGCT",
+          "type": "sub",
+          "pos": 33,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGGATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCCTGCTGCTGAAATAGGCATGCTGCTACCTGACTATGCATGCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GGA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 13,
+      "avg_score": 0.8389112406208242,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGGATCACGT",
+      "best_aa": "MAAAEDGMLLADYGSR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGGATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCCGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 25,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTCGTGAAATGTCATGCTGCTACCTGACTATGCATGCAT",
+          "type": "sub",
+          "pos": 18,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGGATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCCTGCTGCTGAAATTGGCATGCTGCTACCTGACTATGCATGCT",
+          "type": "sub",
+          "pos": 17,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGGATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGTAATGGAATCCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GGA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 14,
+      "avg_score": 0.8040166144768114,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGGTCACGT",
+          "type": "del",
+          "pos": 41,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTTATTATGCATCACGT",
+          "type": "sub",
+          "pos": 33,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTTATGCATCACGT",
+          "type": "ins",
+          "pos": 35,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGACTGCTGCTGAAATAGCATGCTGCTACCTGACTATGGATGCGT",
+          "type": "sub",
+          "pos": 3,
+          "base": "A"
+        },
+        {
+          "seq": "ATGCCTGCTGCTGAAATTGGCATGCTGCTACCTGACTATGCATGCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGGATGCGA",
+          "type": "sub",
+          "pos": 45,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGTAATGAATCCTGCTACCTGACTATGCATGCGT",
+          "type": "del",
+          "pos": 18,
+          "base": "G"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 15,
+      "avg_score": 0.8143024226539213,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCGCTAGCTGATTATGCATCACGT",
+          "type": "del",
+          "pos": 25,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATATGGATCACGT",
+          "type": "del",
+          "pos": 35,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCCTGCTGCTGAAATTGGCATGCTGCTACCAGACTATGCATGCT",
+          "type": "sub",
+          "pos": 32,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCAGGCTGCTACCTGACTATGGATGCGA",
+          "type": "sub",
+          "pos": 21,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "del",
+          "pos": 8,
+          "base": "T"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 16,
+      "avg_score": 0.7892705827937095,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 17,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAATGATGGCATGCTGCTAGCTGATTATGGATCACGT",
+          "type": "ins",
+          "pos": 15,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "del",
+          "pos": 14,
+          "base": "A"
+        },
+        {
+          "seq": "ATGCCTGCTGCTGAAATTGGCATGCTGCTACCAGACTATGCATGCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGG",
+          "type": "sub",
+          "pos": 45,
+          "base": "G"
+        },
+        {
+          "seq": "TATGGCTGCTGCTGTAATGGAATCCTGCTACCTGACTATGCATGCGT",
+          "type": "ins",
+          "pos": 0,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGGATCCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 17,
+      "avg_score": 0.797502077294686,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCCTGCTGCTGAAATTGGCATGCTGCTACCAGACTATGCATGCT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGGATCCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTTCTGCTGAAATGGCATGCTGCTACCTCCCTATGCATGTGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCCTGTGCTGAAATAGGCATGCTGCTACCTGACTATGCATGCT",
+          "type": "del",
+          "pos": 7,
+          "base": "C"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 18,
+      "avg_score": 0.8124201110083256,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCCTCACGT",
+          "type": "sub",
+          "pos": 41,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCGCGT",
+          "type": "sub",
+          "pos": 44,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCCTGCTGCTGAAATTGGCATGCTGCTACCAGGCTATGCATGCT",
+          "type": "sub",
+          "pos": 34,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGGATCCGA",
+          "type": "sub",
+          "pos": 45,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTTCTGCTGAAATGGCATGCTGCTACCTCCCTATGCATGTGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 19,
+      "avg_score": 0.8210359975331483,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "AGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "del",
+          "pos": 1,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTACCTGACTATGGATCCGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTTCTGCTGAAATGGCATGCTGCTACCTCCCTATGCATGTGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAATAGCATGCTGCTTCCTGCTTTGCATGCGT",
+          "type": "del",
+          "pos": 33,
+          "base": "A"
+        },
+        {
+          "seq": "ATCGCTGCTGCTGAAATGGAATCCTGCTACCTGGCTATGCATGCGT",
+          "type": "sub",
+          "pos": 33,
+          "base": "G"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 20,
+      "avg_score": 0.8137233329347774,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEEGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCCGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 5,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCGGCTGAAATAGCATGCTGCTACCTGACTATGGATCCGA",
+          "type": "sub",
+          "pos": 8,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGATTCTGCTGAAATGGCATGCTGCTACCTCCCTATGCATGTGT",
+          "type": "sub",
+          "pos": 4,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAATAGCATGCTGCTACCTGACTATGCATGCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GAT": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 21,
+      "avg_score": 0.8327942399013258,
+      "max_score": 0.856,
+      "best_seq": "ATGGCAGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEEGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCAGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 5,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGCAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 13,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCA": 2,
+        "GCT": 3,
+        "GAA": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GAT": 1,
+        "TAT": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 22,
+      "avg_score": 0.8072427382053654,
+      "max_score": 0.856,
+      "best_seq": "ATGGCAGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEEGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCAGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGGTTATGCATCACGT",
+          "type": "sub",
+          "pos": 34,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCA": 2,
+        "GCT": 3,
+        "GAA": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GAT": 1,
+        "TAT": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 23,
+      "avg_score": 0.7995675675814574,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDAMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCAGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCACCACGT",
+          "type": "sub",
+          "pos": 42,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 19,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCAAGT",
+          "type": "sub",
+          "pos": 45,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCCGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 8,
+          "base": "C"
+        },
+        {
+          "seq": "TTGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 0,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGCTGTTTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GCC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 24,
+      "avg_score": 0.7823964915327833,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDAMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGTCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 3,
+          "base": "T"
+        },
+        {
+          "seq": "TTGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCCGCTGAAGAAGGCATGCTGCTAGCTGTTTATGCATCACGT",
+          "type": "sub",
+          "pos": 8,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCACGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 22,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GCC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 25,
+      "avg_score": 0.8009190447242728,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDAMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGGCTGCTGCAGATGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 14,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTTGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "ins",
+          "pos": 6,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGTATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 20,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGGAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 13,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGATGCTGAAGAAGGCATGCTGCTAGCTGTTTATGCATCACGT",
+          "type": "sub",
+          "pos": 7,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAACATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 45,
+          "base": "C"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GCC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 26,
+      "avg_score": 0.8431838384715589,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDAMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGGCTGCTGCAGATGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGGATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 20,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAACATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCACCTGCTGAAGAAGGCATGCTGCTAGCTGATTTATGGATCACGT",
+          "type": "ins",
+          "pos": 36,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGTGATTATGCATCACGT",
+          "type": "del",
+          "pos": 31,
+          "base": "C"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GCC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 27,
+      "avg_score": 0.7836640114343609,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDAMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGGCGGCTGCAGATGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 5,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGGATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAACATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "del",
+          "pos": 10,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GCC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 28,
+      "avg_score": 0.7919346207844841,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDAMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGGATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAACATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "TTGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATCATGCATCACGT",
+          "type": "sub",
+          "pos": 36,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCAGCAGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCAGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATCCATCACGT",
+          "type": "sub",
+          "pos": 39,
+          "base": "C"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GCC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 29,
+      "avg_score": 0.8276204052684903,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDAMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGGATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAACATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCAGCAGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCAGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATCCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCACCTGCTGAAGAAGGCATGCTGCTTGCTGATTATGGATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GCC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 30,
+      "avg_score": 0.8170363207410624,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDAMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATTGCTCCTGCTGAAGATGGGATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 2,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAACATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCAGCAGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCAGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATCCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCACCTGCTGAAGAAGGCATGCTGCTTGCTGATTATGGATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GCC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 31,
+      "avg_score": 0.8265504052684903,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEDAMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGTGCTGAACATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "del",
+          "pos": 7,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "CTGGCAGCAGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 0,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCAGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATCCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCACCTGCTGAAGAAGGCATGCTGCTTGCTGATTATGGATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGGAGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 1,
+        "GAT": 2,
+        "GCC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 32,
+      "avg_score": 0.8270663562020553,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MAAAEEGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGCCATGCTGCTAGCTGATTTGCATCACGT",
+          "type": "del",
+          "pos": 37,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCAGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATCCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCACCTGCTGAAGAAGGCATGCTGCTTGCTGATTATGGATCACAT",
+          "type": "sub",
+          "pos": 46,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGGAGCTAGCTGATTAGGCATCACGT",
+          "type": "sub",
+          "pos": 38,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAACATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAGATGCCATCCTGCTAGCTGATTATGCTTCCGT",
+          "type": "del",
+          "pos": 44,
+          "base": "A"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 4,
+        "GAA": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GAT": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 33,
+      "avg_score": 0.809700609350123,
+      "max_score": 0.856,
+      "best_seq": "ATGCCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MPAAEDGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTACTGAAGAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 9,
+          "base": "A"
+        },
+        {
+          "seq": "ATGCCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 3,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCAGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATCCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAACATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGTGATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "ins",
+          "pos": 20,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "CCT": 1,
+        "GCT": 2,
+        "GCA": 2,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 34,
+      "avg_score": 0.8173014604139527,
+      "max_score": 0.856,
+      "best_seq": "ATGCCTGCTGCAGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MPAAEDAMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGCCTGCTGCAGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 19,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCAGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATCCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAACATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCAGCTCTGAAGAAGGCATGCTGCTAGCTGATTATCCATCACGT",
+          "type": "del",
+          "pos": 9,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATCGCATGCTGCTAGCTGATTAGGCATCACGT",
+          "type": "sub",
+          "pos": 38,
+          "base": "G"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "CCT": 1,
+        "GCT": 2,
+        "GCA": 2,
+        "GAA": 1,
+        "GAT": 2,
+        "GCC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 35,
+      "avg_score": 0.8177877522072659,
+      "max_score": 0.856,
+      "best_seq": "ATGCCTGCTGCAGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MPAAEDAMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGCCTGCTGCAGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCAGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATCCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCTGAAACATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "ins",
+          "pos": 14,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCAACACGT",
+          "type": "sub",
+          "pos": 42,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCTGCTGCAGAAGATGGCATGCAGCTAGCAGATTATGCATCAGGT",
+          "type": "del",
+          "pos": 2,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTCCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 6,
+          "base": "C"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "CCT": 1,
+        "GCT": 2,
+        "GCA": 2,
+        "GAA": 1,
+        "GAT": 2,
+        "GCC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 36,
+      "avg_score": 0.8185498624981907,
+      "max_score": 0.856,
+      "best_seq": "ATGGCAGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATCCATCACGT",
+      "best_aa": "MAAAEEGMLLADYPSR",
+      "mutations_sample": [
+        {
+          "seq": "ATGCCGTGCTGCAGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "ins",
+          "pos": 5,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCAGCTGCTGAAGAAGGCATGCTGCTAGCTGATTATCCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCAACACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGA",
+          "type": "sub",
+          "pos": 47,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCTTCACGT",
+          "type": "sub",
+          "pos": 41,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGGATGCTGCAAGCTGATAATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTTCTGAACATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 9,
+          "base": "T"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCA": 1,
+        "GCT": 3,
+        "GAA": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GAT": 1,
+        "TAT": 1,
+        "CCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 37,
+      "avg_score": 0.8267289448545375,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCAACACGT",
+      "best_aa": "MAAAEDGMLLADYATR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCAGCTGCTGAAGAATGCATGCTGCTAGCTGATTATCCATCACGT",
+          "type": "sub",
+          "pos": 18,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCAACACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCTTCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGGATGCTGCAAGCTGATAATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATCGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 3,
+        "GCA": 2,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "ACA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 38,
+      "avg_score": 0.8266855073093066,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCAGAAGAAGGCATGCTGCTAGCTGATTATGCAACACGT",
+      "best_aa": "MAAAEEGMLLADYATR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCAGAAGAAGGCATGCTGCTAGCTGATTATGCAACACGT",
+          "type": "sub",
+          "pos": 17,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCTTCACGTT",
+          "type": "ins",
+          "pos": 47,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGGATGCTGCAAGCTGATAATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGCTGCCGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 8,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATCGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 3,
+        "GCA": 2,
+        "GAA": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GAT": 1,
+        "TAT": 1,
+        "ACA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 39,
+      "avg_score": 0.8256103053987551,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCAGAAGAAGGCATGCTGCTAGCTGATTATGCAACACGT",
+      "best_aa": "MAAAEEGMLLADYATR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCAGAAGAAGGCATGCTGCTAGCTGATTATGCAACACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCCCGT",
+          "type": "sub",
+          "pos": 44,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGGATGCTGCAAGCTGATAATGGATCACGT",
+          "type": "sub",
+          "pos": 40,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATCGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATCCTGCTAGCAGATAATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 3,
+        "GCA": 2,
+        "GAA": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GAT": 1,
+        "TAT": 1,
+        "ACA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 40,
+      "avg_score": 0.8176148270371978,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCAGAAGAAGGCATGCTGCTAGCTGATTATGCAACACGT",
+      "best_aa": "MAAAEEGMLLADYATR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCAGAAGAAGGCATGCTGCTAGCTGATTATGCAACACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCTGTTGAAGATGGGATGCTGCAAGCTGATAATGGATCACGT",
+          "type": "sub",
+          "pos": 10,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATCGCATGCTGCTAGCTGATTATGAATCACGT",
+          "type": "sub",
+          "pos": 40,
+          "base": "A"
+        },
+        {
+          "seq": "ATCGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCCCGT",
+          "type": "sub",
+          "pos": 44,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATCCTGCTAGCAGACAATGCATCACGT",
+          "type": "sub",
+          "pos": 35,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCAGTTTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 3,
+        "GCA": 2,
+        "GAA": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GAT": 1,
+        "TAT": 1,
+        "ACA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 41,
+      "avg_score": 0.8365994210450137,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCAGAAGAAGGCATGCTGCTAGCTGATTATGCAACACGT",
+      "best_aa": "MAAAEEGMLLADYATR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCAGAAGAAGGCATGCTGCTAGCTGATTATGCAACACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCAGTTTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGGATGCTGCTAGCTGATTATGCAACACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTTTGCTTCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACATCGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCCTGCTGCAGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 3,
+        "GCA": 2,
+        "GAA": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GAT": 1,
+        "TAT": 1,
+        "ACA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 42,
+      "avg_score": 0.8402873425966131,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTGCAGAAGAAGGCATGCTGCTAGCTGATTATGCAACACGT",
+      "best_aa": "MAAAEEGMLLADYATR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCAGAAGAAGGCATGCTGCTAGCTGATTATGCAACACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCAGCTAGCAGATTATGCATCACGA",
+          "type": "sub",
+          "pos": 25,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACATGGCATGCTGCTAGCTGATCATGCATCACGT",
+          "type": "sub",
+          "pos": 36,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCGGCTGCAGAAGATGGCATGCTGCTAGCAGTTTATGCATCACGT",
+          "type": "sub",
+          "pos": 5,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGGATGCTGCTAGCTGATTATGCAACACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTTTGCTTCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACATCGCATGCTGCTAGCTGAATATGCATCACGT",
+          "type": "sub",
+          "pos": 35,
+          "base": "A"
+        },
+        {
+          "seq": "ATGCCTGCTGCAGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GCT": 3,
+        "GCA": 2,
+        "GAA": 2,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GAT": 1,
+        "TAT": 1,
+        "ACA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 43,
+      "avg_score": 0.8335779519467361,
+      "max_score": 0.856,
+      "best_seq": "ATCGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTTTGCTTCACGT",
+      "best_aa": "IAAAEDGMLLADFASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTGCAGCAGAAGGCATGCTGCTAGCTGATTATGCAACACGT",
+          "type": "sub",
+          "pos": 13,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCAAAAGATGGCATGCAGCTAGCAGATTATGCATCACGA",
+          "type": "sub",
+          "pos": 12,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGGATGCTGCTAGCTTGATTATGCAACACGT",
+          "type": "ins",
+          "pos": 33,
+          "base": "T"
+        },
+        {
+          "seq": "ATCGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTTTGCTTCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACATCGCATGCTGCTAGCTGAATATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCCTGCTGCAGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATC": 1,
+        "GCT": 4,
+        "GCA": 1,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "ATG": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TTT": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 44,
+      "avg_score": 0.8253939426834563,
+      "max_score": 0.856,
+      "best_seq": "ATGGGTGCTGCTGAACATCGCATGCTGCTAGCTGAATATGCATCACGT",
+      "best_aa": "MGAAEHRMLLAEYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATCGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTTTGCTTCAAGT",
+          "type": "sub",
+          "pos": 45,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACATCGCATGCTGCTAGCTGAATATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGCCTGCTGCAGAAGATGCCATGCTGCCAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 28,
+          "base": "C"
+        },
+        {
+          "seq": "ATCGCTGCTGCAGAAGATGGCATGGTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 24,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGCTGCTCCAGAAGATGGCATGCTGCTAGCTGATTATGCTTCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCAGCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGTAGAAGATGGCAAGCTGCTAGCAGTTTATGCATCACGA",
+          "type": "sub",
+          "pos": 10,
+          "base": "T"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GGT": 1,
+        "GCT": 3,
+        "GAA": 2,
+        "CAT": 1,
+        "CGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 45,
+      "avg_score": 0.8012270031842524,
+      "max_score": 0.856,
+      "best_seq": "ATGGGTGCTGCTGAACATCGCATGCTGCTAGCTGAATATGCATCACGT",
+      "best_aa": "MGAAEHRMLLAEYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGGTGCTGCTGAACATCGCATGCTGCTAGCTGAATATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGCTGCTGCAGAAGATGGCATGGTGCTAGCTGATTATCGCATCACGT",
+          "type": "ins",
+          "pos": 39,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGCTGCTCCAGAAGATGGCATGCTGCTAGCTGATTATGATTCACGT",
+          "type": "sub",
+          "pos": 40,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGGTGCAGCTGAACAATGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 18,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGTTGGAATGCTGCTAGCAGAATATGCATCACGA",
+          "type": "sub",
+          "pos": 20,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCCGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 25,
+          "base": "C"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GGT": 1,
+        "GCT": 3,
+        "GAA": 2,
+        "CAT": 1,
+        "CGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 46,
+      "avg_score": 0.8341270741062382,
+      "max_score": 0.856,
+      "best_seq": "ATGGGTGCTGCTGAACATCGCATGCTGCTAGCAGAATATGCATCACGT",
+      "best_aa": "MGAAEHRMLLAEYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGGTGCTGCTGAACATCGCATGCTGCTAGCAGAATATGCATCACGT",
+          "type": "sub",
+          "pos": 32,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACAAGGTATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 20,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATTGGCATGCTGCTAGCAGATTATGCATCACGA",
+          "type": "ins",
+          "pos": 18,
+          "base": "T"
+        },
+        {
+          "seq": "TTCGCTGCAGCAGAAGTTGGCCTGCTGCTAGCTGATTATGCTTCACGT",
+          "type": "sub",
+          "pos": 21,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGAAGGCATGCTGCTAGCTGATTATGCAACACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACAAGGCATGCTGCTAGCTGATTATGCATAACGT",
+          "type": "sub",
+          "pos": 43,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACAAGGCATGCTGTTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 27,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTCCTGCTGAAGATGGGATGCTGCTAGCTGATTCTGCAACACGT",
+          "type": "sub",
+          "pos": 37,
+          "base": "C"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GGT": 1,
+        "GCT": 2,
+        "GAA": 2,
+        "CAT": 1,
+        "CGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GCA": 2,
+        "TAT": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 47,
+      "avg_score": 0.810462169633811,
+      "max_score": 0.856,
+      "best_seq": "ATGGGTGCTGCTGAACATCGCATGCTGCAAGCAGAATATGCATCACGT",
+      "best_aa": "MGAAEHRMLQAEYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGGTGCTGCTGAACATCGCATGCTGCAAGCAGAATATGCATCACGT",
+          "type": "sub",
+          "pos": 28,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGAAGCATGCTGCTAGCTGATTATGCAACACGT",
+          "type": "del",
+          "pos": 19,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGTAGCTGATTATGCATCACGT",
+          "type": "del",
+          "pos": 27,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATCGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCAAGCTGCTAGCAGATTATGCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GGT": 1,
+        "GCT": 2,
+        "GAA": 2,
+        "CAT": 1,
+        "CGC": 1,
+        "CTG": 1,
+        "CAA": 1,
+        "GCA": 2,
+        "TAT": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 48,
+      "avg_score": 0.8181877189173541,
+      "max_score": 0.856,
+      "best_seq": "ATGGGTGCTGCTGAACATCGCATGCTGCAAGCAGAATATGCATCACGT",
+      "best_aa": "MGAAEHRMLQAEYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGGTGCTGCTGAACATCGCATGCTGCAAGCAGAATATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "AGTCGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "ins",
+          "pos": 1,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCAAGCTGCTAGCAGATTATGCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACAGGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 17,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGTTGGCATGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "sub",
+          "pos": 16,
+          "base": "T"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GGT": 1,
+        "GCT": 2,
+        "GAA": 2,
+        "CAT": 1,
+        "CGC": 1,
+        "CTG": 1,
+        "CAA": 1,
+        "GCA": 2,
+        "TAT": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 49,
+      "avg_score": 0.8346240447242727,
+      "max_score": 0.856,
+      "best_seq": "ATGGGTGCTGCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MGAAEQGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGTGTGCTGCTGAACATCGCATGCTGCAAGCAGAATATGCATCACGT",
+          "type": "sub",
+          "pos": 3,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGAAGATTATGCATCACGA",
+          "type": "sub",
+          "pos": 31,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTCCAGAAGATGGCAAGCTGCTAGCAGATTATGCATCACGA",
+          "type": "sub",
+          "pos": 9,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGTTGGCATGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACATCGCATGCTGCCAGCTGAATATGCATCACGT",
+          "type": "sub",
+          "pos": 28,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGGTGCTGCAGAAGATGGCATGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "sub",
+          "pos": 4,
+          "base": "G"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GGT": 1,
+        "GCT": 3,
+        "GAA": 1,
+        "CAA": 1,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GAT": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 50,
+      "avg_score": 0.8343971406860616,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTCCAGAAGATGGCAAGCTGCTAGCAGATTATGCATCACGA",
+      "best_aa": "MAAPEDGKLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGGTGCTGCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGCT",
+          "type": "ins",
+          "pos": 47,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCAGCTAGCAGTTATGCATCACGT",
+          "type": "del",
+          "pos": 36,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTCCAGAAGATGGCAAGCTGCTAGCAGATTATGCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAGTTGGCATGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "del",
+          "pos": 13,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGGTGCTGCAGAAGATGGCATGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTTCAGAAGATGGCAAGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "sub",
+          "pos": 9,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGTAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 10,
+          "base": "T"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 1,
+        "GCT": 2,
+        "CCA": 1,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "AAG": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GCA": 2,
+        "TAT": 1,
+        "TCA": 1,
+        "CGA": 1
+      }
+    },
+    {
+      "generation": 51,
+      "avg_score": 0.8352265957446808,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTCCAGAAGATGGCAAGCTGCTAGCAGATTATGCATCACGA",
+      "best_aa": "MAAPEDGKLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTCCAGAAGATGGCAAGCTGCTAGCAGATTATGCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGCAGAAGATGGCATGCAGCTGGCAGTTTATGCATCACGT",
+          "type": "sub",
+          "pos": 29,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGGTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 10,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCAAGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 1,
+        "GCT": 2,
+        "CCA": 1,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "AAG": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GCA": 2,
+        "TAT": 1,
+        "TCA": 1,
+        "CGA": 1
+      }
+    },
+    {
+      "generation": 52,
+      "avg_score": 0.8018105051382256,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTCCAGAAGATGGCAAGCTGCTAGCAGATTATGCATCACGA",
+      "best_aa": "MAAPEDGKLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTCCAGAAGATGGCAAGCTGCTAGCAGATTATGCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATGCACGT",
+          "type": "ins",
+          "pos": 43,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGGTGAACAAGGCATGCTGCTAGCTGATTATGCATCTCGT",
+          "type": "sub",
+          "pos": 44,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCGCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGA",
+          "type": "del",
+          "pos": 5,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGCATGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "del",
+          "pos": 18,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCAAGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGGTGCAGAAGATGGCATGCAGCTAGCAGTTTATGCATCTCGT",
+          "type": "sub",
+          "pos": 7,
+          "base": "G"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 1,
+        "GCT": 2,
+        "CCA": 1,
+        "GAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "AAG": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GCA": 2,
+        "TAT": 1,
+        "TCA": 1,
+        "CGA": 1
+      }
+    },
+    {
+      "generation": 53,
+      "avg_score": 0.7907296562454769,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTCCACAAGATGGCAAGCTGCTAGCAGATTATGCATCACGA",
+      "best_aa": "MAAPQDGKLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTCCACAAGATGGCAAGCTGCTAGCAGATTATGCATCACGA",
+          "type": "sub",
+          "pos": 12,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGGTGAACAAGGCATGCTGCTAGCTGATTATGCATCTCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCAAGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGGTGCAGAAGATGGCATGCAGCCAGCAGTTTATGCATCTCGT",
+          "type": "sub",
+          "pos": 28,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCAAGCAGCTAGCAGTTTTTGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGCTTAACAAGGCATGCTGCTAGGTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 12,
+          "base": "T"
+        },
+        {
+          "seq": "ATGCCTGCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGA",
+          "type": "sub",
+          "pos": 3,
+          "base": "C"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 1,
+        "GCT": 2,
+        "CCA": 1,
+        "CAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "AAG": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GCA": 2,
+        "TAT": 1,
+        "TCA": 1,
+        "CGA": 1
+      }
+    },
+    {
+      "generation": 54,
+      "avg_score": 0.8012947604573745,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTCCACAAGATGGCAAGCTGCTAGCAGATTATGCATCACGA",
+      "best_aa": "MAAPQDGKLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTCCACAAGATGGCAAGCTGCTAGCAGATTATGCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGGTGAACAAGGCATGCTGCTAGCTGATTATGCATCTCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCAAGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCAAGCAGCTAGCAGTTTTTGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "AGGCCTGCTGCAGAAGATGGCATGCTGCTAGCAGATTATGCATCACGA",
+          "type": "sub",
+          "pos": 1,
+          "base": "G"
+        },
+        {
+          "seq": "AAGGGTGCGGCTGAACAAGGCATGCTGCTAGCTGAATATGCATCACGT",
+          "type": "sub",
+          "pos": 8,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 1,
+        "GCT": 2,
+        "CCA": 1,
+        "CAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "AAG": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GCA": 2,
+        "TAT": 1,
+        "TCA": 1,
+        "CGA": 1
+      }
+    },
+    {
+      "generation": 55,
+      "avg_score": 0.8087605094803878,
+      "max_score": 0.856,
+      "best_seq": "ATGGCTGCTCCACAAGATGGCAAGCTGCTAGCAGATTATGCATCACGA",
+      "best_aa": "MAAPQDGKLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGCTGCTCCACAAGATGGCAAGCTGCTAGCAGATTATGCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGGTGAACAAGGCATGCTGCTAGCTGATTATGCATCTCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCAAGCAGCTAGCAGTTTATGCATTACGT",
+          "type": "sub",
+          "pos": 43,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCAAGCAGCTAGCAGTTTTTGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGCTGAACAAGGCATGCTGCTAGCTGATTATGCATAACGT",
+          "type": "sub",
+          "pos": 43,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCAAGCAGCTAGCAGTTTATGCTTCCCGT",
+          "type": "sub",
+          "pos": 44,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGGAGCTGCTGAACAAGGCATGCTGCTAGGTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 1,
+        "GCT": 2,
+        "CCA": 1,
+        "CAA": 1,
+        "GAT": 2,
+        "GGC": 1,
+        "AAG": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GCA": 2,
+        "TAT": 1,
+        "TCA": 1,
+        "CGA": 1
+      }
+    },
+    {
+      "generation": 56,
+      "avg_score": 0.8525196584165581,
+      "max_score": 0.856,
+      "best_seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MGAPEQGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATTGCTGCTCCACAAGATGGCAAGCTGCTAGCAGATTATGCATCACGA",
+          "type": "sub",
+          "pos": 2,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTGGTGAACAAGGCATGCTGCTAGCTGATTATGCATCTCGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCAAGCAGCTAGCAGTTTTTGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGAGCTGCTGAACAAGGCATGCTGCTAGGTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "AGGGCTGCTGCAGAAGATGGCAAGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "sub",
+          "pos": 1,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGCTGCTGGAGAAGATGGCATGCTGCTAGCTGATAATGCATCACGT",
+          "type": "sub",
+          "pos": 36,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GGT": 1,
+        "GCT": 2,
+        "CCT": 1,
+        "GAA": 1,
+        "CAA": 1,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GAT": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 57,
+      "avg_score": 0.7757063562020552,
+      "max_score": 0.856,
+      "best_seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+      "best_aa": "MGAPEQGMLLADYASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTTGGTGAACAAGGCATGCTGCTAGCTGATTATGCATCTCGT",
+          "type": "ins",
+          "pos": 8,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGCTGGCTGCAGAAGATGGCAAGCAGCTAGCAGTTTTTGCATCACGT",
+          "type": "ins",
+          "pos": 7,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGGAGCTGCTGAACAAGGCATGCTGCTAGGTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGGAGAAGATGGTATGCTGCTAGCTGATAATGCATCACGT",
+          "type": "sub",
+          "pos": 20,
+          "base": "T"
+        },
+        {
+          "seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCAAGCAGCTAGCAGTTTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTCCTGCAGAAGATGGCATGCTGCTACCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GGT": 1,
+        "GCT": 2,
+        "CCT": 1,
+        "GAA": 1,
+        "CAA": 1,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GAT": 1,
+        "TAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 58,
+      "avg_score": 0.8001814604139529,
+      "max_score": 0.856,
+      "best_seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATAATGCATCACGT",
+      "best_aa": "MGAPEQGMLLADNASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATAATGCATCACGT",
+          "type": "sub",
+          "pos": 36,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGGAGCTGCTGAACAAGGCATGCTGCTAGGTGACTATGCATCACGT",
+          "type": "sub",
+          "pos": 35,
+          "base": "C"
+        },
+        {
+          "seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCAAGCAGCTTGCAGTTTATGCATCACGT",
+          "type": "sub",
+          "pos": 29,
+          "base": "T"
+        },
+        {
+          "seq": "ATGCTCCTGCAGAAGATGGCATGCTGCTACCTGATTATGCATCACGT",
+          "type": "del",
+          "pos": 3,
+          "base": "G"
+        },
+        {
+          "seq": "ATGGGTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGCCAAGCAGCTAGCAGTTTTTGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGGCATACTGCTAGCTGATTATGCATCACGT",
+          "type": "sub",
+          "pos": 23,
+          "base": "A"
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GGT": 1,
+        "GCT": 2,
+        "CCT": 1,
+        "GAA": 1,
+        "CAA": 1,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GAT": 1,
+        "AAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    },
+    {
+      "generation": 59,
+      "avg_score": 0.8186605760602113,
+      "max_score": 0.856,
+      "best_seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATAATGCATCACGT",
+      "best_aa": "MGAPEQGMLLADNASR",
+      "mutations_sample": [
+        {
+          "seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATAATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATAGCAAGCAGCTTGCAGTTTATGCATCACGT",
+          "type": "sub",
+          "pos": 18,
+          "base": "A"
+        },
+        {
+          "seq": "ATGGGTGCTGCAGAAGATGGCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGCAGAAGATGCCAAGCAGCTAGCAGTTTTTGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGGTGCTCCTGAACAAGGCATGCTGCTAGGTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTGGAGAAGATGCCATGCTGCTAGCTGATTATGCATCACGT",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        },
+        {
+          "seq": "ATGGCTGCTCCAGAAGATGGCAAGCTGCTAGCACATTATCCATCACGA",
+          "type": "none",
+          "pos": -1,
+          "base": ""
+        }
+      ],
+      "codon_counts_best": {
+        "ATG": 2,
+        "GGT": 1,
+        "GCT": 2,
+        "CCT": 1,
+        "GAA": 1,
+        "CAA": 1,
+        "GGC": 1,
+        "CTG": 1,
+        "CTA": 1,
+        "GAT": 1,
+        "AAT": 1,
+        "GCA": 1,
+        "TCA": 1,
+        "CGT": 1
+      }
+    }
+  ]
+}
